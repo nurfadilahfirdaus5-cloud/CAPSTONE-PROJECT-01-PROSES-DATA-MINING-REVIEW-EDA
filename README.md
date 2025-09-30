@@ -3,14 +3,14 @@
 # Studi Kasus EDA PT Ray Pink Property Indonesia (RPPI)
 
 ## Kasus
-Anda adalah seorang Data Analyst yang bekerja di PT Ray Pink Property Indonesia (RPPI).  
-RPPI adalah perusahaan property yang berdiri sejak 11 tahun yang lalu.  
-RPPI memliki kantor cabang di 7 propinsi di Indonesia dan jumlahnya terus bertambah.  
-Valuasi RPPI tahun ini mencapai Rp 7 Trilyun, meningkat 7% dari tahun sebelumnya.  
-Bidang usaha RPPI adalah investasi dan jual-beli property secara umum, termasuk bekerja sama dengan developer perumahan.  
-Data Engineer (DE)/Database Administrator (DBA) RPPI berhasil mengumpulkan data rumah-rumah yang dijual di beberapa kota di Indonesia.  
-Sebagai Data Analyst anda akan hadir dan melakukan presentasi pada rapat direksi untuk memberikan insight dari data ke upper management (C-Level, senior managers, dan komisaris perusahaan.  
-Di studi kasus ini anda mempersiapkan "bahan presentasi" dengan cara melakukan EDA pada data yang diterima dari DE/DBA.
+- Anda adalah seorang Data Analyst yang bekerja di PT Ray Pink Property Indonesia (RPPI).  
+- RPPI adalah perusahaan property yang berdiri sejak 11 tahun yang lalu.  
+- RPPI memliki kantor cabang di 7 propinsi di Indonesia dan jumlahnya terus bertambah.  
+- Valuasi RPPI tahun ini mencapai Rp 7 Trilyun, meningkat 7% dari tahun sebelumnya.  
+- Bidang usaha RPPI adalah investasi dan jual-beli property secara umum, termasuk bekerja sama dengan developer perumahan.  
+- Data Engineer (DE)/Database Administrator (DBA) RPPI berhasil mengumpulkan data rumah-rumah yang dijual di beberapa kota di Indonesia.  
+- Sebagai Data Analyst anda akan hadir dan melakukan presentasi pada rapat direksi untuk memberikan insight dari data ke upper management (C-Level, senior managers, dan komisaris perusahaan.  
+- Di studi kasus ini anda mempersiapkan "bahan presentasi" dengan cara melakukan EDA pada data yang diterima dari DE/DBA.
 
 ---
 
@@ -35,9 +35,8 @@ Di studi kasus pertama, anda mendapat bantuan keterangan dari manajemen. Setelah
 - Yakinkan file images dapat dibuka (nampak) saat ipynb di Jupyter notebook anda dibuka di Google Colab.  
 - Tips: hati-hati dalam melakukan penamaan file, Google colab case sensitive.  
 - Interpretasi diberikan menggunakan cell markdown tepat dibawah output code yang relevan diatasnya.  
-- Anda tidak diperkenankan bertanya pertanyaan yang:  
-  - Merupakan jawaban atau menjurus ke jawaban studi kasus.  
-  - Debugging - code error (anda diharapkan melakukan code troubleshooting sendiri via mesin pencari)  
+- Anda tidak diperkenankan bertanya pertanyaan yang: Merupakan jawaban atau menjurus ke jawaban studi kasus.
+- Debugging - code error (anda diharapkan melakukan code troubleshooting sendiri via mesin pencari)  
 - Pada studi kasus ini anda hanya diperkenankan untuk melakukan EDA (bukan modeling seperti prediksi/forecasting)
 
 ---
